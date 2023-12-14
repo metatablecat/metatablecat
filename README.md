@@ -7,5 +7,4 @@
 i dont know what else to put here so i'll just put some stuff here
 
 * See my contributions to the Roblox Creator Docs: [merged](https://github.com/Roblox/creator-docs/pulls?q=is%3Apr+is%3Amerged+author%3Ametatablecat) [open](https://github.com/Roblox/creator-docs/pulls/metatablecat)
-* Check out [Tabby](https://github.com/metatablecat/tabby).
-* [SUPER SECRET PROJECT MAYBE?]()
+* Check out [Tabby](https://github.com/metatablecat/tabby) or [Catwork](https://github.com/metatablecat/catwork).
