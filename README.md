@@ -1,8 +1,10 @@
 <div align=center>
 <h1>i am the programmer cat</h1>
 
-![](https://avatars.githubusercontent.com/u/132796135?v=4)
+<img src="https://avatars.githubusercontent.com/u/132796135?v=4" width=128 />
 </div>
+
+---
 
 i dont know what else to put here so i'll just put some stuff here
 
